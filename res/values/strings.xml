@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucas Tvs</string>
+    <string name="Register">Save &amp; Preview</string>
+    <string name="Rs">\u20B9</string>
+    <string name="title_activity_navigation">Map</string>
+    <string name="title_activity_location_capture">Map</string>
+</resources>

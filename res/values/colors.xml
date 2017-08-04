@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e6756d</color>
+    <color name="colorPrimaryDark">#c21318</color>
+    <color name="colorAccent">#c21318</color>
+
+    <color name="grey">#fcfcfc</color>
+    <color name="white">#ffffff</color>
+    <color name="background">#efeeee</color>
+    <color name="black">#000000</color>
+    <color name="iviry">#FFFFF0</color>
+    <color name="coffee">#2B0F0E</color>
+    <color name="logocolor">#c21318</color>
+    <color name="litelogocolor">#fda8a4</color>
+    <color name="backcolor">#ff0000</color>
+    <color name="logograycolor">#fa8c86</color>
+    <color name="toolbacolorr">#c21318</color>
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+    <color name="backgradientcolor">#2f88cc</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="activity_hint_color">#E0E0E0</color>
+    <color name="text_color">#acb9ca</color>
+    <color name="toolbacolorr1">#1948f1</color>
+
+
+    <color name="red">#e31b23</color>
+    <!-- Home screen -->
+    <color name="image_bg">#80DEEA</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_border">#ffafed44</color>
+    <color name="indigo">#3F51B5</color>
+
+    <color name="darkgray">#303030</color>
+
+    <color name="color1">#37bdb4</color>
+    <color name="color2">#ea5265</color>
+    <color name="color3">#f7b102</color>
+
+    <color name="actionbar_bgcolor">#273f64</color>
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="actionbarTabColor_notpressed">#ffffffff</color>
+    <color name="actionbarTabColor_pressed">#ff42caca</color>
+
+
+    // button gradient
+
+    <color name="start_color">#fd1100</color>
+    <color name="end_color">#1375fe</color>
+    <color name="center_color">#1a80ff</color>
+</resources>
+
